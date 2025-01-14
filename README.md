@@ -38,7 +38,7 @@ The third template in my series, this project showcases a wide range of web desi
 - **CSS3**: For styling, animations, and layout.
 - **Font Awesome**: For icons.
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request.
