@@ -4,6 +4,8 @@ This repository contains the source code for **HTML & CSS Template Three**, a pr
 
 ![Opera Instantané_2025-01-14_140333_ayoubnsr github io](https://github.com/user-attachments/assets/f1da8c37-b15e-47e0-a7a2-b700fe7518f5)
 
+You can check out the live version of the template here: [Special Template](https://ayoubnsr.github.io/HTML_and_CSS_template_3/)
+
 ## Project Overview
 The third template in my series, this project showcases a wide range of web design techniques, including complex layouts, interactive components, and responsive behavior. The goal of this template was to apply everything I have learned about HTML and CSS, including advanced animations, effects, and structure.
 
